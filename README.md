@@ -25,7 +25,7 @@ El análisis revela una clara división global, donde el nivel de desarrollo de 
 #### Mapa Mundial de Necesidad de Ayuda
 Esta visualización es la conclusión principal del proyecto. Muestra geográficamente los tres clústeres, coloreando cada país según su nivel de necesidad. Los "puntos calientes" (amarillo) en África son evidentes.
 
-![Mapa Mundial](report/mapa.png)
+![Mapa Mundial](report/mundo.png)
 
 #### Perfil de los Clústeres por Ingreso y Mortalidad
 Estos diagramas de caja demuestran las diferencias drásticas entre los tres grupos. El clúster de "Ayuda Urgente" (etiquetado como 0 en el gráfico original) tiene la mortalidad infantil más alta y los ingresos más bajos.
