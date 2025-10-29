@@ -30,7 +30,7 @@ Esta visualización es la conclusión principal del proyecto. Muestra geográfic
 #### Perfil de los Clústeres por Ingreso y Mortalidad
 Estos diagramas de caja demuestran las diferencias drásticas entre los tres grupos. El clúster de "Ayuda Urgente" (etiquetado como 0 en el gráfico original) tiene la mortalidad infantil más alta y los ingresos más bajos.
 
-![Boxplots de Ingreso y Mortalidad](boxplots.png)
+![Boxplots de Ingreso y Mortalidad](report/box.png)
 
 ## ⚙️ Características Técnicas
 
